@@ -1,0 +1,155 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
+    background-image: url(../img/fileTDW3NBE5.jpg) ;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: auto;
+   width: auto;
+   
+
+    
+}
+img{
+    
+    width: 600px;
+    height: 350px   ;
+}
+
+.menu{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+        text-align: center;
+        margin-top: 150px;
+        margin-left: 30%;
+        
+  
+    border-radius: 5px;
+    border: black 1px solid;    
+    
+    box-shadow: 10px 10px 5px 0px rgba (0,0,0,0.75);;
+}
+
+.menu a{
+    
+    text-decoration: none;
+ 
+    font-size: 30px;
+}
+
+.botones{
+    padding: 20px 15px;
+    text-align: center;
+    color: yellowgreen;
+    width: 200px    ;
+    box-shadow: 10px 10px 5px 0px rgba (0,0,0,0.75);;
+    
+}
+.registro{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+        text-align: center;
+        margin-top: 90px;
+        margin-left: 30%;
+        
+        
+  
+    border-radius: 5px;
+    border: black 1px solid;     
+    
+    box-shadow: 10px 10px 5px 0px rgba (0,0,0,0.75);;
+}
+.registroa{
+    background-color: white;
+    height: 600px;
+    width: 500px;
+        text-align: center;
+        margin-top: 90px;
+        margin-left: 30%;
+        
+  
+    border-radius: 5px;
+    border: black 1px solid;    
+    
+    box-shadow: 10px 10px 5px 0px rgba (0,0,0,0.75);;
+}
+.formulario{
+    margin-top: 10px;
+}
+
+.formulario h1{
+
+    font-family: monospace;
+    font-size: 40px;
+    
+
+
+
+}
+
+input[type="email"], input[type="contrasena"], input[type="text"]{
+    outline: none;
+    padding: 20px;
+    width: 220px  ;
+}
+
+.botonesa{
+    padding: 20px 15px;
+    text-align: center;
+    color: white;
+    background-color: #008cb0;
+    width: 250px    ;
+    border: 1px white solid;
+    box-shadow: 10px 10px 5px 0px rgba (0,0,0,0.75);
+}
+
+ a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#Precio{
+display: none;
+}
+
+
+
+
+
+
+.contenedor{
+    margin-top: 40px ;
+    margin-left: 30%;
+     background-color: white;
+    width: 400px;
+    height: auto;
+    padding: 20px 15px;
+   
+    text-align: center;
+    
+}
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+    color: #fff;
+     background: #000;
+ }
+ th {
+    background: #eee;
+ }
